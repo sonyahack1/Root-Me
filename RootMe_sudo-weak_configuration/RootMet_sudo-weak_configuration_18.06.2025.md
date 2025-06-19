@@ -23,7 +23,6 @@
 |     Flag     	| `flag{b3_c4r3ful_w1th_sud0}`       |
 |  Credentials  | `app-script-ch1:app-script-ch1`    |
 |   Technique   | `sudo wildcard escape`     	     |
-|---------------|------------------------------------|
 
 ---
 
@@ -107,5 +106,5 @@ your/path/to/../etc/shadow  →  /some/etc/shadow
 ---
 
 <p align="center">
-  <img src="./screenshots/solved_challenge.png" alt="solved_challenge"/>
+  <img src="./screenshots/solved_challenge.png" alt="solved_challenge" style="width:60%;"/>
 </p>
