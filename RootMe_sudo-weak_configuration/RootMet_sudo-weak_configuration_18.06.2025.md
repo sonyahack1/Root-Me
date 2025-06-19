@@ -106,5 +106,5 @@ your/path/to/../etc/shadow  →  /some/etc/shadow
 ---
 
 <p align="center">
-  <img src="./screenshots/solved_challenge.png" alt="solved_challenge" style="width:60%;"/>
+  <img src="./screenshots/solved_challenge.png" alt="solved_challenge" style="width:120%;"/>
 </p>
