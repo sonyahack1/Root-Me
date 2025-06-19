@@ -1,8 +1,11 @@
 # RootMe Writeups
 
-<img src="./screenshots/rootme.png" alt="Logo"/>
+<p align="center">
+  <img src="./screenshots/rootme.png" alt="rootme"/>
+</p>
 
 ---
+
 Welcome to my personal collection of writeups for machines and challenges on [Root Me](https://www.root-me.org/).
 Each writeup includes my thought process, tools used, exploitation steps, and post-exploitation notes.
 
