@@ -79,7 +79,7 @@ app-script-ch1@challenge02:~$ sudo -u app-script-ch1-cracked /bin/cat /challenge
 
 ```bash
 
-app-script-ch1@challenge02:~$ sudo -u app-script-ch1-cracked /bin/cat /challenge/app-script/ch1/notes/*
+app-script-ch1@challenge02:~$ sudo -u app-script-ch1-cracked /bin/cat /challenge/app-script/ch1/notes/../ch1cracked/.passwd
 
 ```
 > Result:
