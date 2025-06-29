@@ -1,4 +1,8 @@
-# RootMe Writeups
+# Root-Me Writeups
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E1DF7&center=true&vCenter=true&width=435&lines=%F0%9D%97%A5%F0%9D%97%BC%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%A0%F0%9D%97%B2+%F0%9D%97%AA%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BD%F0%9D%98%80" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
   <img src="./screenshots/rootme.png" alt="rootme"/>
