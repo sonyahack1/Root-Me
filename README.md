@@ -1,8 +1,3 @@
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E1DF7&center=true&vCenter=true&width=435&lines=%F0%9D%97%A5%F0%9D%97%BC%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%A0%F0%9D%97%B2+%F0%9D%97%AA%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BD%F0%9D%98%80" alt="Typing SVG" /></a>
-</div>
-
 ---
 
 <p align="center">
@@ -48,6 +43,6 @@ This repository should be used `only for ethical purposes`: to protect your own 
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://dev.to/sonyahack1"><img width="32px" alt="dev.to" title="sonyahack1 dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://t.me/sonyahack1"><img width="32px" alt="telegram" title="sonyahack1 telegram" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tg-icon.svg"></a>
+ <a href="https://t.me/sonyahack1"><img width="32px" alt="telegram" title="sonyahack1 telegram" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/telegram-icon.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
